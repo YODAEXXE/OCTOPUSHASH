@@ -40,26 +40,14 @@ This project was created as a hands-on way to understand how hashing works and h
 🗂️ Store and verify hashed passwords
 🔓 Implement hash cracking (wordlist/brute force) for learning
 🎨 Improve CLI design and user experience
-🐙 Preview:
-                       ___
-              .-"   "-.
-            .'  .-. .-. '.
-           /   ( o Y o )  \
-          |     .-^^^-.    |
-          |    /  ___  \   |
-           \   | (___) |  /
-            '-.\_____./.-'
-            /   \___/   \
-        ___/  /\   /\  \___
-       /     /  \_/  \     \
-      /_____/    |    \_____\
-         /  \    |    /  \
-        /    \   |   /    \
-       /      \  |  /      \
-      /        \ | /        \
-     /          \|/          \
-    /            |            \
-   /             |             \
-  /              |              \
- /               |               \
-/________________|________________\
+
+
+
+
+
+📬 Contact
+
+If you’d like to get in touch, feel free to reach out:
+
+👤 Samuel Morais
+📸 Instagram: @fck._mott
